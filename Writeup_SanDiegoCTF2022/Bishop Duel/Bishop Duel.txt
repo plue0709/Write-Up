@@ -1,0 +1,11 @@
+2 bishops on the chessboard.
+Goal 1 (first flag)
+Lose the game by letting your bishop be captured.
+Goal 2 (second flag)
+Win by capturing the other bishop.
+⠀
+Avoiding a draw is easy huh? But wait...
+Connect via
+nc bishop.sdc.tf 1337
+Source code
+main.rs: https://cdn.discordapp.com/attachments/808487148332122144/972301532722782249/main.rs

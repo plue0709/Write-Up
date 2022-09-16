@@ -1,0 +1,4 @@
+We've sniffed the traffic of somebody suspected to be looking up flags online! Unfortunately, just searching for the flag format in their traffic doesn't appear to be working...can you find the leaked flag?
+
+Attachments
+001.pcap: https://cdn.discordapp.com/attachments/808487148332122144/969687352412876863/001.pcap
