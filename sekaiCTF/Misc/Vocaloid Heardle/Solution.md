@@ -14,8 +14,10 @@ Search tên đề bài, ta hiểu được sơ qua thử thách là trong 1 file
 
 > Hướng giải quyết
 
-Tạo file flag.txt với flag chưa các kí tự trong bảng ascii: SEKAI{!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_`abcdefghijklmnopqrstuvwxyz{|}~}
+Tạo file flag.txt với flag chứa các kí tự trong bảng ascii: SEKAI{!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_`abcdefghijklmnopqrstuvwxyz{|}~}
 
-Tải tất cả bài hát về bằng code đề cho sử dùng file flag.txt ở trên, nghe và và check flag từng ký tự :)
+Tải tất cả bài hát về bằng code đề cho sử dùng file flag.txt ở trên, nghe file flag.mp3 và check từng file đã tải :)
+
+Ta được đoạn: **118 48 67 97 108 111 73 100 60 51 117** sử dụng [CyberChef](https://gchq.github.io/CyberChef/#recipe=From_Decimal('Space',false)&input=MTE4IDQ4IDY3IDk3IDEwOCAxMTEgNzMgMTAwIDYwIDUxIDExNw) convert ta được flag
 
 ## Flag: `SEKAI{v0CaloId<3u}`
