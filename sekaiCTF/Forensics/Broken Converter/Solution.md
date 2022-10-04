@@ -1,9 +1,10 @@
 # Broken Converter
 **Forensics - Miku has finally finished her assignment and is ready to submit – but for some reason, the school requires all assignments to be submitted as .xps files. Miku found a converter online and used the converted file for submission. The file looked good at first, but it seems as if there’s something broken in the converter. Can you help her figure out what is wrong?**
 
-[Assignment-broken.xps]()
+[Assignment-broken.xps](https://github.com/plue0709/Write-Up/blob/main/sekaiCTF/Forensics/Broken%20Converter/Assignment-broken.xps)
 
 > Tiếp cận
+
 Mở file bằng **XPS viewer** được vài đoạn text vô nghĩa
 
 ![image](https://user-images.githubusercontent.com/80806913/193757390-371ffce2-3701-4f98-bffa-619886b5ccae.png)
@@ -20,7 +21,8 @@ Cũng như các file docx hay xlxs, xps thực chất cũng là file nén, sửa
 
 ![image](https://user-images.githubusercontent.com/80806913/193757912-47831591-6456-4a6c-9f82-9ad0c72be2e2.png)
 
-Theo Google thì odttf: 
+Theo Google thì odttf:
+
 ![image](https://user-images.githubusercontent.com/80806913/193758044-fa0d2508-0bdb-45c5-9212-3b73c7e77cf4.png)
 
 Trước hết cần chuyển odttf thành file ttf để xem file. Sử dụng đoạn code python dưới đây hoặc một số tool trên mạng khác để convert:
