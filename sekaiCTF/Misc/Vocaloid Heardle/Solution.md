@@ -13,8 +13,9 @@ Search tên đề bài, ta hiểu được sơ qua thử thách là trong 1 file
 
 
 > Hướng giải quyết
+
 Tạo file flag.txt với flag chưa các kí tự trong bảng ascii: SEKAI{!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_`abcdefghijklmnopqrstuvwxyz{|}~}
 
-Tải tất cả bài hát về bằng code đề cho, dùng file flag.txt của mình và check flag từng ký tự :)
+Tải tất cả bài hát về bằng code đề cho sử dùng file flag.txt ở trên, nghe và và check flag từng ký tự :)
 
 ## Flag: `SEKAI{v0CaloId<3u}`
