@@ -1,9 +1,9 @@
 # Vocaloid Heardle
 **MISC - Well, it’s just too usual to hide a flag in stegano, database, cipher, or server. What if we decide to sing it out instead?**
 
-[**flag.mp3**]()
+[**flag.mp3**](https://github.com/plue0709/Write-Up/blob/main/sekaiCTF/Misc/Vocaloid%20Heardle/flag.mp3)
 
-[**vocaloid_heardle.py**]()
+[**vocaloid_heardle.py**](https://github.com/plue0709/Write-Up/blob/main/sekaiCTF/Misc/Vocaloid%20Heardle/vocaloid_heardle.py)
 
 > Tiếp cận
 
