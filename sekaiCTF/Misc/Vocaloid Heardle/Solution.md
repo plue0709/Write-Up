@@ -14,7 +14,7 @@ Search tên đề bài, ta hiểu được sơ qua thử thách là trong 1 file
 
 > Hướng giải quyết
 
-Tạo file flag.txt với flag chứa các kí tự trong bảng ascii: SEKAI{!"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^_`abcdefghijklmnopqrstuvwxyz{|}~}
+Tạo file flag.txt với flag chứa các kí tự trong bảng ascii: **SEKAI{!"#$%&'()+,-./0123456789:;<=>?ABCDEFGHIJKLMNOPQRSTUVWXYZ[]^abcdefghijklmnopqrstuvwxyz{|}~}**
 
 Tải tất cả bài hát về bằng code đề cho sử dùng file flag.txt ở trên, nghe file flag.mp3 và check từng file đã tải :)
 
